@@ -4,3 +4,4 @@ Added quick update to file
 Made minor improvement
 Updated content with small tweak
 Added simple documentation update
+Made slight change in project
